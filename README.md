@@ -4,7 +4,7 @@
 
 - 💼 Been working as a Software Engineer for almost 3 years.
 - 🎓 I hold a Bachelor's and a Master's degree in Computer Science and Engineering.
-- 🔭 Currently helping to build a website for a 3d-printing business.
+- 🔭 Currently exploring 3d-printing.
 - 🌱 Recently started exploring Kotlin and Go. Also had a go with React.
 - ⚡ Always looking forward for outdoor activities.
 
